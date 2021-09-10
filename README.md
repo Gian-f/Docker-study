@@ -1,1 +1,1 @@
-# Introducting to Docker with study purpose.
+# Introducting to Docker.
