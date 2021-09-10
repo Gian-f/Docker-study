@@ -1,1 +1,1 @@
-# Introducting to Docker.
+# Studying Docker on Digital Innovation One course.
